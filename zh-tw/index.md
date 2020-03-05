@@ -25,7 +25,7 @@
   - 驗收
  
 ## 步驟
-### 一、RobotSim基礎(3/13) [教學頁面](./1RobotSimBasic.html) / [繳交作業(基礎)](https://drive.google.com/drive/folders/1FMey_NlWkC3YxeOpwVbmjqgbFMcu3iXU?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA)
+### 一、RobotSim基礎(3/11、3/18) [教學頁面](./1RobotSimBasic.html) / [繳交作業(基礎)](https://drive.google.com/drive/folders/1FMey_NlWkC3YxeOpwVbmjqgbFMcu3iXU?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA)
 ```
 千里之行 始於足下
 一日之所需 百工斯為備
@@ -42,7 +42,7 @@
   - 動作 Motion
   - 流程控制 Flow
 
-### 二、RobotSim專案制作(3/27) [教學頁面](./2RobotSimProject.html) / [繳交作業(檔案匯出)](https://drive.google.com/drive/folders/104_rw30SUGLiESvD4R0ukJIDlGs7t98Y?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA)
+### 二、RobotSim專案制作(3/25、4/01) [教學頁面](./2RobotSimProject.html) / [繳交作業(檔案匯出)](https://drive.google.com/drive/folders/104_rw30SUGLiESvD4R0ukJIDlGs7t98Y?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA)
 ```
 昨日種種，皆成今我，切莫思量，更莫哀，從今往後，怎麼收穫，怎麼栽。
 ```
@@ -51,7 +51,7 @@
   - RobotSim程式設計擴充 夾娃娃機 [參考教學](https://yazelin.github.io/cnu2018-RobotSim/)
 2. RobotSim匯出 並匯入WorkVisual專案
 
-### 三、手臂操作訓練及KRL程式語言(4/10) [教學頁面](./3KukaRobotLanguage.html) / [繳交作業(夾娃娃機)](https://drive.google.com/drive/folders/1Y3z2fzKdRJWUsqoRW0wzBV0vf2mGEnmF?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA)
+### 三、手臂操作訓練及KRL程式語言(4/08、4/15) [教學頁面](./3KukaRobotLanguage.html) / [繳交作業(夾娃娃機)](https://drive.google.com/drive/folders/1Y3z2fzKdRJWUsqoRW0wzBV0vf2mGEnmF?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA)
 ```
 欲速則不達
 慢慢來，比較快
@@ -64,7 +64,7 @@
   - 流程控制
 3. 實機測試
 
-### 四、WtFramework 開發框架(4/24) [教學頁面](./4WtFramework.html) / [繳交作業(手臂操作)](https://drive.google.com/drive/folders/1bEAmqdT6V2msQhSoefEsK-EBExqTyEM_?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA) / [繳交作業(夾娃娃機Client)](https://drive.google.com/drive/folders/1GiY-bH9IP93imMEhPxAoQVtDFbh2rLPk?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA)
+### 四、WtFramework 開發框架(4/22、4/29) [教學頁面](./4WtFramework.html) / [繳交作業(手臂操作)](https://drive.google.com/drive/folders/1bEAmqdT6V2msQhSoefEsK-EBExqTyEM_?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA) / [繳交作業(夾娃娃機Client)](https://drive.google.com/drive/folders/1GiY-bH9IP93imMEhPxAoQVtDFbh2rLPk?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA)
 
 ```
 工欲善其事 必先利其器
@@ -78,7 +78,7 @@
   - Server
 5. 練習
 
-### 五、自動化專案實作 一(5/08) [教學頁面](./5Project1.html) / [繳交作業(EKI手臂通訊程式)](https://drive.google.com/drive/folders/1U9KEFvolMDbF_lMLNY_12ZOwR7DW7-Hr?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA)
+### 五、自動化專案實作 一(5/06、5/13) [教學頁面](./5Project1.html) / [繳交作業(EKI手臂通訊程式)](https://drive.google.com/drive/folders/1U9KEFvolMDbF_lMLNY_12ZOwR7DW7-Hr?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA)
 ```
 滴水穿石，不是水多厲害，更不是石頭不厲害，而是時間太厲害。
 ```
@@ -92,7 +92,7 @@
   - PC端 為主控端 C# WinForm TcpClient
   - Robot端 為被控設備 KRL TcpServer
 
-### 六、自動化專案實作 二(5/22) [教學頁面](./6Project2.html) / [繳交作業-期末(夾娃娃機)](https://drive.google.com/drive/folders/1AkAqfQzGQfBe4fosgGh4xChGCGDtcEll?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA) 
+### 六、自動化專案實作 二(5/20、5/27) [教學頁面](./6Project2.html) / [繳交作業-期末(夾娃娃機)](https://drive.google.com/drive/folders/1AkAqfQzGQfBe4fosgGh4xChGCGDtcEll?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA) 
 ```
 種瓜得瓜 種豆得豆。
 種瓠仔 不會生菜瓜。
