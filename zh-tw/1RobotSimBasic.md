@@ -47,19 +47,19 @@
 - 影片參考 [連結](https://youtu.be/KpkbhDKJbnQ).
 
 ### RobotSim 教點-程式-模擬
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4Gk7K88B10c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8uOQ80cGFXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- 影片參考 [連結](https://www.youtube.com/watch?v=4Gk7K88B10c&index=21&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo).
+- 影片參考 [連結](https://youtu.be/8uOQ80cGFXE).
 
 ### RobotSim 設定Tool-更新點位-模擬動作
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NLA6A_qWDgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P47AQcqmRrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- 影片參考 [連結](https://www.youtube.com/watch?v=NLA6A_qWDgs&index=22&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo).
+- 影片參考 [連結](https://youtu.be/P47AQcqmRrg).
 
 ### RobotSim 設定Base-設定手臂-匯出程式
-<iframe width="560" height="315" src="https://www.youtube.com/embed/izkk5MW-FeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UuUzfkyk_WM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- 影片參考 [連結](https://www.youtube.com/watch?v=izkk5MW-FeY&index=23&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo).
+- 影片參考 [連結](https://youtu.be/UuUzfkyk_WM).
 
 ## RobotSim程式設計
 - 變數 Value
@@ -120,11 +120,11 @@
 ![Image](../img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU0ODU0MzYsMjUxMzkwODg4LDE4MT
-kzNjY4OTUsMTc4MTkxMjQsMTAzMjU3OTUzOSwxODA5NDgzNzcs
-LTEzMjg1MjY1OTgsLTE3NzcxOTc3OTQsLTE4ODIyNjk1NTIsOD
-QwMDU4OTksLTE1MzU0OTU2NjUsLTIwMTkzNTM1NTQsLTEzNzEx
-NjUwMTgsMTk3Nzc2OTQ1Niw0MjMzOTMwMTUsMzYyNzcxNTIzLD
-ExMzE0MzAwOTksMjY4MTc3MDA0LC0zMzczOTIxMDUsLTY1MDMy
-NzE1NV19
+eyJoaXN0b3J5IjpbLTYyNjI0ODkyOSwtODczOTU1MjU1LDE1Mj
+c0NTk0NTAsLTExNjU0ODU0MzYsMjUxMzkwODg4LDE4MTkzNjY4
+OTUsMTc4MTkxMjQsMTAzMjU3OTUzOSwxODA5NDgzNzcsLTEzMj
+g1MjY1OTgsLTE3NzcxOTc3OTQsLTE4ODIyNjk1NTIsODQwMDU4
+OTksLTE1MzU0OTU2NjUsLTIwMTkzNTM1NTQsLTEzNzExNjUwMT
+gsMTk3Nzc2OTQ1Niw0MjMzOTMwMTUsMzYyNzcxNTIzLDExMzE0
+MzAwOTldfQ==
 -->
