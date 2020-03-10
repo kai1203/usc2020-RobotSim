@@ -66,7 +66,7 @@
 ```
 
 
-### 六、自動化專案實作 二(5/20、5/27) [教學頁面](./6Project2.html) / [繳交作業-期末(夾娃娃機)](https://drive.google.com/drive/folders/1AkAqfQzGQfBe4fosgGh4xChGCGDtcEll?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA) 
+### 六、自動化專案實作 二(5/20、5/27) [教學頁面] / [繳交作業-期末(夾娃娃機)]
 ```
 種瓜得瓜 種豆得豆。
 種瓠仔 不會生菜瓜。
@@ -86,6 +86,6 @@
 - 操作KUKA機器手臂
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjUyMjUyNywtNjY5ODM1NzU2LDU3ND
-E4MDI1OV19
+eyJoaXN0b3J5IjpbLTQyODA5NDM4LC02Njk4MzU3NTYsNTc0MT
+gwMjU5XX0=
 -->
