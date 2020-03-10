@@ -37,8 +37,8 @@
   - RobotSim環境 [下載](http://www.wtech.com.tw/public/download/robotsim/RobotSim_0_1_7346.unitypackage)
   - 下載-安裝-試用 [參考影片](https://youtu.be/KpkbhDKJbnQ)
   - 教點-程式-模擬 [參考影片](https://youtu.be/8uOQ80cGFXE)
-  - 設定Tool-更新點位-模擬動作 [參考影片](https://www.youtube.com/watch?v=NLA6A_qWDgs&index=22&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
-  - 設定Base-設定手臂-匯出程式 [參考影片](https://www.youtube.com/watch?v=izkk5MW-FeY&index=23&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
+  - 設定Tool-更新點位-模擬動作 [參考影片](https://youtu.be/P47AQcqmRrg)
+  - 設定Base-設定手臂-匯出程式 [參考影片](https://youtu.be/UuUzfkyk_WM)
 7. RobotSim基礎程式
   - 變數 Value
   - 動作 Motion
@@ -60,5 +60,5 @@
 - 操作KUKA機器手臂
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NDI0NTE1LDU3NDE4MDI1OV19
+eyJoaXN0b3J5IjpbLTY2OTgzNTc1Niw1NzQxODAyNTldfQ==
 -->
