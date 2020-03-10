@@ -19,7 +19,9 @@
 ![Image](../img/Tool.jpg) 
 
 ### 線上模擬環境
-
+- 我們把模擬環境放在網站上了
+- 網址在這邊  [RobotSim WebPlayer](http://www.wtech.com.tw/robotsim)
+- 在模擬器中我們可以學到這些
 - 在模擬器中我們可以學到這些
 	- 座標系
 		- WORLD
@@ -78,8 +80,12 @@
 
 ![Image](../img/Flow.png)
 
+- 功能擴充 Extends
+  - ReloadExtends
+
+![Image](../img/Extends.png)
 ## 練習
-- 匯入RobotSim [下載頁面](http://www.wtech.com.tw/robotsim)
+RobotSim環境下載頁面[載點](http://www.wtech.com.tw/public/download/robotsim/RobotSim_0_1_7346.unitypackage)
 - 開啟Robot視窗、Program視窗、Controller視窗
 - 加入空場景
 
@@ -96,6 +102,11 @@
 - 連結Robot、Controller、Program
 
 ![Image](../img/LinkProgramRobot.png)
+
+- 手臂程式匯出匯入
+
+![Image](../img/ExportWindow.png)
+
 - 設定主攝影機視角
 
 ![Image](../img/MainCamera.png)
@@ -120,11 +131,11 @@
 ![Image](../img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjI0ODkyOSwtODczOTU1MjU1LDE1Mj
-c0NTk0NTAsLTExNjU0ODU0MzYsMjUxMzkwODg4LDE4MTkzNjY4
-OTUsMTc4MTkxMjQsMTAzMjU3OTUzOSwxODA5NDgzNzcsLTEzMj
-g1MjY1OTgsLTE3NzcxOTc3OTQsLTE4ODIyNjk1NTIsODQwMDU4
-OTksLTE1MzU0OTU2NjUsLTIwMTkzNTM1NTQsLTEzNzExNjUwMT
-gsMTk3Nzc2OTQ1Niw0MjMzOTMwMTUsMzYyNzcxNTIzLDExMzE0
-MzAwOTldfQ==
+eyJoaXN0b3J5IjpbNTgxNjE2NDY2LC0xMzY1MzAyMjkwLDczNj
+Y1NDQyOCwyMDkwMTc0Nzc4LDEzNDA4MjkyNzUsLTYyNjI0ODky
+OSwtODczOTU1MjU1LDE1Mjc0NTk0NTAsLTExNjU0ODU0MzYsMj
+UxMzkwODg4LDE4MTkzNjY4OTUsMTc4MTkxMjQsMTAzMjU3OTUz
+OSwxODA5NDgzNzcsLTEzMjg1MjY1OTgsLTE3NzcxOTc3OTQsLT
+E4ODIyNjk1NTIsODQwMDU4OTksLTE1MzU0OTU2NjUsLTIwMTkz
+NTM1NTRdfQ==
 -->
