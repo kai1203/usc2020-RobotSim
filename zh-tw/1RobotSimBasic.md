@@ -102,6 +102,11 @@ RobotSim環境下載頁面[載點](http://www.wtech.com.tw/public/download/robot
 - 連結Robot、Controller、Program
 
 ![Image](../img/LinkProgramRobot.png)
+
+- 手臂程式匯出匯入
+
+![Image](../img/LinkProgramRobot.png)
+
 - 設定主攝影機視角
 
 ![Image](../img/MainCamera.png)
@@ -126,11 +131,11 @@ RobotSim環境下載頁面[載點](http://www.wtech.com.tw/public/download/robot
 ![Image](../img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2NjU0NDI4LDIwOTAxNzQ3NzgsMTM0MD
-gyOTI3NSwtNjI2MjQ4OTI5LC04NzM5NTUyNTUsMTUyNzQ1OTQ1
-MCwtMTE2NTQ4NTQzNiwyNTEzOTA4ODgsMTgxOTM2Njg5NSwxNz
-gxOTEyNCwxMDMyNTc5NTM5LDE4MDk0ODM3NywtMTMyODUyNjU5
-OCwtMTc3NzE5Nzc5NCwtMTg4MjI2OTU1Miw4NDAwNTg5OSwtMT
-UzNTQ5NTY2NSwtMjAxOTM1MzU1NCwtMTM3MTE2NTAxOCwxOTc3
-NzY5NDU2XX0=
+eyJoaXN0b3J5IjpbLTEzNjUzMDIyOTAsNzM2NjU0NDI4LDIwOT
+AxNzQ3NzgsMTM0MDgyOTI3NSwtNjI2MjQ4OTI5LC04NzM5NTUy
+NTUsMTUyNzQ1OTQ1MCwtMTE2NTQ4NTQzNiwyNTEzOTA4ODgsMT
+gxOTM2Njg5NSwxNzgxOTEyNCwxMDMyNTc5NTM5LDE4MDk0ODM3
+NywtMTMyODUyNjU5OCwtMTc3NzE5Nzc5NCwtMTg4MjI2OTU1Mi
+w4NDAwNTg5OSwtMTUzNTQ5NTY2NSwtMjAxOTM1MzU1NCwtMTM3
+MTE2NTAxOF19
 -->
