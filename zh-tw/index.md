@@ -34,12 +34,13 @@
 2. 手臂基本介紹
 3. [手臂安全說明](http://kai1203.nctu.me/zh-tw/%E6%A9%9F%E6%A2%B0%E6%89%8B%E8%87%82%E5%AE%89%E5%85%A8%E6%AA%A2%E6%9F%A5%E8%A1%A82019_07_10.html)
 4. RobotSim環境及基本操作
+5. - RobotSim環境[vu9](http://www.wtech.com.tw/public/download/robotsim/RobotSim_0_1_7346.unitypackage)
   - RobotSim環境 [下載](http://www.wtech.com.tw/public/download/robotsim/RobotSim_0_1_7346.unitypackage)
-  - 下載-安裝-試用 [參考影片](https://www.youtube.com/watch?v=xv4v_fOwAC0&index=20&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
+  - 下載-安裝-試用 [參考影片](https://youtu.be/KpkbhDKJbnQ)
   - 教點-程式-模擬 [參考影片](https://www.youtube.com/watch?v=4Gk7K88B10c&index=21&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
   - 設定Tool-更新點位-模擬動作 [參考影片](https://www.youtube.com/watch?v=NLA6A_qWDgs&index=22&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
   - 設定Base-設定手臂-匯出程式 [參考影片](https://www.youtube.com/watch?v=izkk5MW-FeY&index=23&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
-5. RobotSim基礎程式
+7. RobotSim基礎程式
   - 變數 Value
   - 動作 Motion
   - 流程控制 Flow
@@ -60,5 +61,6 @@
 - 操作KUKA機器手臂
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2NTk2NTczLC0xNTU4OTcwNjQxXX0=
+eyJoaXN0b3J5IjpbMTk5NzI2MzUyLDgyNjU5NjU3MywtMTU1OD
+k3MDY0MV19
 -->
