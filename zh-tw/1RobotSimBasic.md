@@ -113,6 +113,11 @@ RobotSim環境下載頁面[載點](http://www.wtech.com.tw/public/download/robot
 - 控制手臂加入點位1、點位2
 
 ![Image](../img/AddPoint.png)
+
+- 設定夾爪工具base
+
+![Image](../img/Attach.png)
+
 - 動作指令 PTP、LIN
 
 ![Image](../img/AddPTP.png)
@@ -131,11 +136,11 @@ RobotSim環境下載頁面[載點](http://www.wtech.com.tw/public/download/robot
 ![Image](../img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxNjE2NDY2LC0xMzY1MzAyMjkwLDczNj
-Y1NDQyOCwyMDkwMTc0Nzc4LDEzNDA4MjkyNzUsLTYyNjI0ODky
-OSwtODczOTU1MjU1LDE1Mjc0NTk0NTAsLTExNjU0ODU0MzYsMj
-UxMzkwODg4LDE4MTkzNjY4OTUsMTc4MTkxMjQsMTAzMjU3OTUz
-OSwxODA5NDgzNzcsLTEzMjg1MjY1OTgsLTE3NzcxOTc3OTQsLT
-E4ODIyNjk1NTIsODQwMDU4OTksLTE1MzU0OTU2NjUsLTIwMTkz
-NTM1NTRdfQ==
+eyJoaXN0b3J5IjpbMTQ4NTk2MTI0MSw1ODE2MTY0NjYsLTEzNj
+UzMDIyOTAsNzM2NjU0NDI4LDIwOTAxNzQ3NzgsMTM0MDgyOTI3
+NSwtNjI2MjQ4OTI5LC04NzM5NTUyNTUsMTUyNzQ1OTQ1MCwtMT
+E2NTQ4NTQzNiwyNTEzOTA4ODgsMTgxOTM2Njg5NSwxNzgxOTEy
+NCwxMDMyNTc5NTM5LDE4MDk0ODM3NywtMTMyODUyNjU5OCwtMT
+c3NzE5Nzc5NCwtMTg4MjI2OTU1Miw4NDAwNTg5OSwtMTUzNTQ5
+NTY2NV19
 -->
