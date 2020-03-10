@@ -80,9 +80,10 @@
 
 ![Image](../img/Flow.png)
 
--功能擴充Extends
- 
+- 功能擴充 Extends
+  - ReloadExtends
 
+![Image](../img/Flow.png)
 ## 練習
 RobotSim環境下載頁面[載點](http://www.wtech.com.tw/public/download/robotsim/RobotSim_0_1_7346.unitypackage)
 - 開啟Robot視窗、Program視窗、Controller視窗
@@ -125,7 +126,7 @@ RobotSim環境下載頁面[載點](http://www.wtech.com.tw/public/download/robot
 ![Image](../img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ5MDg0NTcsMjA5MDE3NDc3OCwxMz
+eyJoaXN0b3J5IjpbLTE4OTA5Nzg5MTksMjA5MDE3NDc3OCwxMz
 QwODI5Mjc1LC02MjYyNDg5MjksLTg3Mzk1NTI1NSwxNTI3NDU5
 NDUwLC0xMTY1NDg1NDM2LDI1MTM5MDg4OCwxODE5MzY2ODk1LD
 E3ODE5MTI0LDEwMzI1Nzk1MzksMTgwOTQ4Mzc3LC0xMzI4NTI2
