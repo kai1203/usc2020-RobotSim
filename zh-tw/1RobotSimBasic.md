@@ -80,6 +80,9 @@
 
 ![Image](../img/Flow.png)
 
+-功能擴充Extends
+ 
+
 ## 練習
 RobotSim環境下載頁面[載點](http://www.wtech.com.tw/public/download/robotsim/RobotSim_0_1_7346.unitypackage)
 - 開啟Robot視窗、Program視窗、Controller視窗
@@ -122,11 +125,11 @@ RobotSim環境下載頁面[載點](http://www.wtech.com.tw/public/download/robot
 ![Image](../img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDE3NDc3OCwxMzQwODI5Mjc1LC02Mj
-YyNDg5MjksLTg3Mzk1NTI1NSwxNTI3NDU5NDUwLC0xMTY1NDg1
-NDM2LDI1MTM5MDg4OCwxODE5MzY2ODk1LDE3ODE5MTI0LDEwMz
-I1Nzk1MzksMTgwOTQ4Mzc3LC0xMzI4NTI2NTk4LC0xNzc3MTk3
-Nzk0LC0xODgyMjY5NTUyLDg0MDA1ODk5LC0xNTM1NDk1NjY1LC
-0yMDE5MzUzNTU0LC0xMzcxMTY1MDE4LDE5Nzc3Njk0NTYsNDIz
-MzkzMDE1XX0=
+eyJoaXN0b3J5IjpbLTE2OTQ5MDg0NTcsMjA5MDE3NDc3OCwxMz
+QwODI5Mjc1LC02MjYyNDg5MjksLTg3Mzk1NTI1NSwxNTI3NDU5
+NDUwLC0xMTY1NDg1NDM2LDI1MTM5MDg4OCwxODE5MzY2ODk1LD
+E3ODE5MTI0LDEwMzI1Nzk1MzksMTgwOTQ4Mzc3LC0xMzI4NTI2
+NTk4LC0xNzc3MTk3Nzk0LC0xODgyMjY5NTUyLDg0MDA1ODk5LC
+0xNTM1NDk1NjY1LC0yMDE5MzUzNTU0LC0xMzcxMTY1MDE4LDE5
+Nzc3Njk0NTZdfQ==
 -->
