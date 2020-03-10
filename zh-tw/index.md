@@ -65,16 +65,8 @@
 滴水穿石，不是水多厲害，更不是石頭不厲害，而是時間太厲害。
 ```
 
-1. 網路通訊手臂EKI
-- Server設定
-- EKI通訊程式
-2. 程式匯入至手臂
-4. 通訊測試
-- 利用cmd以及WinForm程式進行測試WtFramework 自動化專案 實作
-  - PC端 為主控端 C# WinForm TcpClient
-  - Robot端 為被控設備 KRL TcpServer
 
-### 六、自動化專案實作 二(5/20、5/27) [教學頁面](./6Project2.html) / [繳交作業-期末(夾娃娃機)](https://drive.google.com/drive/folders/1AkAqfQzGQfBe4fosgGh4xChGCGDtcEll?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA) 
+### 六、自動化專案實作 二(5/20、5/27) [教學頁面] / [繳交作業-期末(夾娃娃機)]
 ```
 種瓜得瓜 種豆得豆。
 種瓠仔 不會生菜瓜。
@@ -94,6 +86,6 @@
 - 操作KUKA機器手臂
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODE1MDU4LC02Njk4MzU3NTYsNTc0MT
+eyJoaXN0b3J5IjpbLTQyODA5NDM4LC02Njk4MzU3NTYsNTc0MT
 gwMjU5LDgyNjU5NjU3MywtMTU1ODk3MDY0MV19
 -->
