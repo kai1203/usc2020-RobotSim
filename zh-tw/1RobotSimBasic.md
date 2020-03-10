@@ -52,9 +52,9 @@
 - 影片參考 [連結](https://youtu.be/8uOQ80cGFXE).
 
 ### RobotSim 設定Tool-更新點位-模擬動作
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NLA6A_qWDgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P47AQcqmRrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- 影片參考 [連結](https://www.youtube.com/watch?v=NLA6A_qWDgs&index=22&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo).
+- 影片參考 [連結](https://youtu.be/P47AQcqmRrg).
 
 ### RobotSim 設定Base-設定手臂-匯出程式
 <iframe width="560" height="315" src="https://www.youtube.com/embed/izkk5MW-FeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -120,11 +120,11 @@
 ![Image](../img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzQ1OTQ1MCwtMTE2NTQ4NTQzNiwyNT
-EzOTA4ODgsMTgxOTM2Njg5NSwxNzgxOTEyNCwxMDMyNTc5NTM5
-LDE4MDk0ODM3NywtMTMyODUyNjU5OCwtMTc3NzE5Nzc5NCwtMT
-g4MjI2OTU1Miw4NDAwNTg5OSwtMTUzNTQ5NTY2NSwtMjAxOTM1
-MzU1NCwtMTM3MTE2NTAxOCwxOTc3NzY5NDU2LDQyMzM5MzAxNS
-wzNjI3NzE1MjMsMTEzMTQzMDA5OSwyNjgxNzcwMDQsLTMzNzM5
-MjEwNV19
+eyJoaXN0b3J5IjpbLTg3Mzk1NTI1NSwxNTI3NDU5NDUwLC0xMT
+Y1NDg1NDM2LDI1MTM5MDg4OCwxODE5MzY2ODk1LDE3ODE5MTI0
+LDEwMzI1Nzk1MzksMTgwOTQ4Mzc3LC0xMzI4NTI2NTk4LC0xNz
+c3MTk3Nzk0LC0xODgyMjY5NTUyLDg0MDA1ODk5LC0xNTM1NDk1
+NjY1LC0yMDE5MzUzNTU0LC0xMzcxMTY1MDE4LDE5Nzc3Njk0NT
+YsNDIzMzkzMDE1LDM2Mjc3MTUyMywxMTMxNDMwMDk5LDI2ODE3
+NzAwNF19
 -->
