@@ -32,7 +32,7 @@
 ```
 1. 課程大綱
 2. 手臂基本介紹
-3. [手臂安全說明]()
+3. [手臂安全說明]([file:///D:/GitHub/usc2020-RobotSim-/zh-tw/%E6%A9%9F%E6%A2%B0%E6%89%8B%E8%87%82%E5%AE%89%E5%85%A8%E6%AA%A2%E6%9F%A5%E8%A1%A82019_07_10.html](file:///D:/GitHub/usc2020-RobotSim-/zh-tw/%E6%A9%9F%E6%A2%B0%E6%89%8B%E8%87%82%E5%AE%89%E5%85%A8%E6%AA%A2%E6%9F%A5%E8%A1%A82019_07_10.html))
 4. RobotSim環境及基本操作
   - RobotSim環境 [下載](http://www.wtech.com.tw/public/download/robotsim/RobotSim_0_1_7346.unitypackage)
   - 下載-安裝-試用 [參考影片](https://youtu.be/KpkbhDKJbnQ)
@@ -86,6 +86,6 @@
 - 操作KUKA機器手臂
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTAzNTM2LDE5NDk4OTUzMzQsLTExNz
-YyNjM1ODQsLTY2OTgzNTc1Niw1NzQxODAyNTldfQ==
+eyJoaXN0b3J5IjpbLTIwNDM0MTk5MDksMTk0OTg5NTMzNCwtMT
+E3NjI2MzU4NCwtNjY5ODM1NzU2LDU3NDE4MDI1OV19
 -->
