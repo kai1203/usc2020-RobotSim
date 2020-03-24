@@ -25,7 +25,7 @@
   - 驗收
  
 ## 步驟
-### 一、RobotSim基礎(3/11、3/18) [教學頁面](./1RobotSimBasic.html) / [繳交作業(基礎)](https://drive.google.com/drive/folders/1FMey_NlWkC3YxeOpwVbmjqgbFMcu3iXU?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA)
+### 一、RobotSim基礎(3/11、3/18) [教學頁面](./1RobotSimBasic.html) 
 ```
 千里之行 始於足下
 一日之所需 百工斯為備
@@ -44,7 +44,7 @@
   - 動作 Motion
   - 流程控制 Flow
 
-### 二、RobotSim專案制作(3/25、4/01) [教學頁面](./2RobotSimProject.html) / [繳交作業(檔案匯出)](https://drive.google.com/drive/folders/104_rw30SUGLiESvD4R0ukJIDlGs7t98Y?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA)
+### 二、RobotSim專案制作(3/25、4/01) [教學頁面](./2RobotSimProject.html) 
 ```
 昨日種種，皆成今我，切莫思量，更莫哀，從今往後，怎麼收穫，怎麼栽。
 ```
@@ -90,8 +90,8 @@
 - 操作KUKA機器手臂
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0NjY4NDYsLTgzNjYwNTQxNCwtMTI1ND
-Q4MzIxLC0xNzU5NjY5OTksMTk0OTg5NTMzNCwtMTE3NjI2MzU4
-NCwtNjY5ODM1NzU2LDU3NDE4MDI1OSw4MjY1OTY1NzMsLTE1NT
-g5NzA2NDFdfQ==
+eyJoaXN0b3J5IjpbLTgzMTY1NjE3OSw4MTQ2Njg0NiwtODM2Nj
+A1NDE0LC0xMjU0NDgzMjEsLTE3NTk2Njk5OSwxOTQ5ODk1MzM0
+LC0xMTc2MjYzNTg0LC02Njk4MzU3NTYsNTc0MTgwMjU5LDgyNj
+U5NjU3MywtMTU1ODk3MDY0MV19
 -->
