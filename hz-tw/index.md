@@ -48,6 +48,10 @@
 ```
 昨日種種，皆成今我，切莫思量，更莫哀，從今往後，怎麼收穫，怎麼栽。
 ```
+1. RobotSim完整專案
+  - 自訂函式 顯示訊息功能
+  - RobotSim程式設計擴充 夾娃娃機 [參考教學](https://yazelin.github.io/cnu2018-RobotSim/)
+2. RobotSim匯出 並匯入WorkVisual專案
 
 ### 三、手臂操作訓練及KRL程式語言(4/08、4/15) [教學頁面] / [繳交作業]
 ```
@@ -86,6 +90,7 @@
 - 操作KUKA機器手臂
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk2Njk5OSwxOTQ5ODk1MzM0LC0xMT
-c2MjYzNTg0LC02Njk4MzU3NTYsNTc0MTgwMjU5XX0=
+eyJoaXN0b3J5IjpbLTEyNTQ0ODMyMSwtMTc1OTY2OTk5LDE5ND
+k4OTUzMzQsLTExNzYyNjM1ODQsLTY2OTgzNTc1Niw1NzQxODAy
+NTldfQ==
 -->
