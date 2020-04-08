@@ -53,7 +53,7 @@
   - RobotSim程式設計擴充 夾娃娃機 [參考教學](https://yazelin.github.io/cnu2018-RobotSim/)
 2. RobotSim匯出 並匯入WorkVisual專案
 
-### 三、手臂操作訓練及KRL程式語言(4/08、4/15) [教學頁面] / [繳交作業]
+### 三、手臂操作訓練及KRL程式語言(4/08、4/15) [教學頁面] / 
 ```
 欲速則不達
 慢慢來，比較快
@@ -90,8 +90,8 @@
 - 操作KUKA機器手臂
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTY1NjE3OSw4MTQ2Njg0NiwtODM2Nj
-A1NDE0LC0xMjU0NDgzMjEsLTE3NTk2Njk5OSwxOTQ5ODk1MzM0
-LC0xMTc2MjYzNTg0LC02Njk4MzU3NTYsNTc0MTgwMjU5LDgyNj
-U5NjU3MywtMTU1ODk3MDY0MV19
+eyJoaXN0b3J5IjpbMjA2Njk1Njc0OSwtODMxNjU2MTc5LDgxND
+Y2ODQ2LC04MzY2MDU0MTQsLTEyNTQ0ODMyMSwtMTc1OTY2OTk5
+LDE5NDk4OTUzMzQsLTExNzYyNjM1ODQsLTY2OTgzNTc1Niw1Nz
+QxODAyNTksODI2NTk2NTczLC0xNTU4OTcwNjQxXX0=
 -->
