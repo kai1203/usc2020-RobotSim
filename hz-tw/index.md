@@ -65,7 +65,7 @@
   - 動作指令
   - 流程控制
 3. 實機測試
-### 四、WtFramework 開發框架(4/22、4/29) [教學頁面](./4WtFramework.html)
+### 四、WtFramework 開發框架(4/23、4/29) [教學頁面](./4WtFramework.html)
 ```
 工欲善其事 必先利其器
 ```
@@ -103,8 +103,8 @@
 - 操作KUKA機器手臂
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2MTQxNDI1LC05OTk3MTQzMzksLTgzMT
-Y1NjE3OSw4MTQ2Njg0NiwtODM2NjA1NDE0LC0xMjU0NDgzMjEs
-LTE3NTk2Njk5OSwxOTQ5ODk1MzM0LC0xMTc2MjYzNTg0LC02Nj
-k4MzU3NTYsNTc0MTgwMjU5XX0=
+eyJoaXN0b3J5IjpbLTExODQ4NDQ5NzYsNzI2MTQxNDI1LC05OT
+k3MTQzMzksLTgzMTY1NjE3OSw4MTQ2Njg0NiwtODM2NjA1NDE0
+LC0xMjU0NDgzMjEsLTE3NTk2Njk5OSwxOTQ5ODk1MzM0LC0xMT
+c2MjYzNTg0LC02Njk4MzU3NTYsNTc0MTgwMjU5XX0=
 -->
