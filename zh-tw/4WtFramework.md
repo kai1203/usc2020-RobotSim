@@ -12,10 +12,10 @@
   - 於 WorkVisual 內點選 File/Cataloghandling...
   - 於 Catalogs 視窗點選 KRL Templates 後按 > 按鈕 加入功能
   - ![Image](../img/AddKRLTemplates.png)
-  -  - 下載WtFramework檔案:[](https://github.com/yazelin/usc2019-RobotSim/raw/master/src/WtFramework.zip)
+  -  - 下載WtFramework檔案:[WtFramework](https://github.com/yazelin/usc2019-RobotSim/raw/master/src/WtFramework.zip)
   - 將 WtFramework.zip 解壓縮後將 KUKA Templates資料夾 覆蓋 C:\Users\User\Documents\KUKA Templates 資料夾
 3. 網路通訊
-  - 下載xml檔案:[https://github.com/yazelin/usc2019-RobotSim/raw/master/src/XmlServer.zip](https://github.com/yazelin/usc2019-RobotSim/raw/master/src/XmlServer.zip)
+  - 下載xml檔案:[XmlServer.zip](https://github.com/yazelin/usc2019-RobotSim/raw/master/src/XmlServer.zip)
   - 在 EthernetKRL 點右鍵選擇 Add external file 加入 Xml.Servver.xml
   - ![Image](../img/Demonstration.PNG)
   - 點選XmlServer.Xml
@@ -229,11 +229,11 @@ Port 54600
   ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTIzMjc1MTQsMTU3NzkyMDczMywtMT
-M1MjU2MDIzNywxMzY4NjAxNDIzLC0yMDAyMjczNTczLDE5OTkw
-MzYwNjEsLTExMzcyMjgxNjksMTAzMTg4MzAzNiw5MTg4ODc1OD
-AsMTAzMTg4MzAzNiwtMTM1MTM2MDEwMCwxMTM2MTAzMTI3LDEz
-MTM2NTg0ODcsLTEyMDAxMjI2NSwtMTY4NDE3NDYzNywtODQ3Nj
-M0MTUzLC01MDE4Njc3NDksMTE5NTM5MjY3MywtMTYxNjQ4NjE0
-Nyw0Nzc5NTAwNDRdfQ==
+eyJoaXN0b3J5IjpbODg5OTEyODc5LDE1Nzc5MjA3MzMsLTEzNT
+I1NjAyMzcsMTM2ODYwMTQyMywtMjAwMjI3MzU3MywxOTk5MDM2
+MDYxLC0xMTM3MjI4MTY5LDEwMzE4ODMwMzYsOTE4ODg3NTgwLD
+EwMzE4ODMwMzYsLTEzNTEzNjAxMDAsMTEzNjEwMzEyNywxMzEz
+NjU4NDg3LC0xMjAwMTIyNjUsLTE2ODQxNzQ2MzcsLTg0NzYzND
+E1MywtNTAxODY3NzQ5LDExOTUzOTI2NzMsLTE2MTY0ODYxNDcs
+NDc3OTUwMDQ0XX0=
 -->
