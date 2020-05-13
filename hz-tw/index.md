@@ -79,7 +79,7 @@
   - Server
 4. 練習
 
-### 五、自動化專案實作 一(5/06、5/13) [教學頁面] / [繳交作業]
+### 五、自動化專案實作 一(5/06、5/13) [教學頁面](./5Project1.html) 
 ```
 滴水穿石，不是水多厲害，更不是石頭不厲害，而是時間太厲害。
 ```
@@ -112,7 +112,7 @@
 - 操作KUKA機器手臂
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4NjUyMDIxLDg5OTc2MDQwMiwyMDQwMz
+eyJoaXN0b3J5IjpbNDIzMTI0NzIwLDg5OTc2MDQwMiwyMDQwMz
 g3NjUxLC0xMTg0ODQ0OTc2LDcyNjE0MTQyNSwtOTk5NzE0MzM5
 LC04MzE2NTYxNzksODE0NjY4NDYsLTgzNjYwNTQxNCwtMTI1ND
 Q4MzIxLC0xNzU5NjY5OTksMTk0OTg5NTMzNCwtMTE3NjI2MzU4
